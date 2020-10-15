@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+
+header{
+    background-color: royalblue;
+    height: 18vh;
+}
+main{
+    height: 72vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+#column1{
+    background-color: yellow;
+    width: 32vw;
+    height: 72vh;
+    display: inline-block;
+
+
+}
+#column2{
+    background-color: red;
+    width: 32vw;
+    height: 72vh;
+    display: inline-block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+#column3{
+    background-color: green;
+    width: 32vw;
+    height: 72vh;
+    display: inline-block;
+
+}
+
+
+footer{
+    background-color: royalblue;
+    height: 10vh;
+}
