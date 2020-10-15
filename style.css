@@ -45,3 +45,18 @@ footer{
     background-color: royalblue;
     height: 10vh;
 }
+.description{
+    width: 1000px;
+    height: 20px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.image{
+    width: 20%;
+    height: 20%;
+    margin-top: 7vh;
+    margin-left: 30vw;
+
+}
